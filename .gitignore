@@ -1,0 +1,9 @@
+node_modules
+dist
+.DS_Store
+*.log
+.env
+.env.local
+
+# Unrelated local scaffold — not part of the challenge
+crew-finder/

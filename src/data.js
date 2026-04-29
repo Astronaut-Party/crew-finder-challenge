@@ -1,0 +1,17 @@
+export const CREW = [
+  { id: 1, name: 'Astra Reyes', role: 'Mission Commander' },
+  { id: 2, name: 'Bo Tanaka', role: 'Flight Engineer' },
+  { id: 3, name: 'Cass Okafor', role: 'Pilot' },
+  { id: 4, name: 'Dani Lindqvist', role: 'Payload Specialist' },
+  { id: 5, name: 'Elio Vasquez', role: 'Mission Specialist' },
+  { id: 6, name: 'Faye Kowalski', role: 'Flight Surgeon' },
+  { id: 7, name: 'Gus Abernathy', role: 'EVA Lead' },
+  { id: 8, name: 'Hana Park', role: 'Robotics Engineer' },
+  { id: 9, name: 'Ivo Santos', role: 'Comms Officer' },
+  { id: 10, name: 'Jules Marchetti', role: 'Astrobiologist' },
+  { id: 11, name: 'Kai Nakamura', role: 'Propulsion Engineer' },
+  { id: 12, name: 'Lila Brennan', role: 'Mission Commander' },
+  { id: 13, name: 'Milo Achterberg', role: 'Pilot' },
+  { id: 14, name: 'Nia Olusegun', role: 'Software Engineer' },
+  { id: 15, name: 'Orion Petrov', role: 'Flight Engineer' },
+]
