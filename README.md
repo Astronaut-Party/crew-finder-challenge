@@ -84,9 +84,10 @@ A walkthrough video (no more than 5 minutes — Loom, QuickTime, anything) cover
 2. How did you fix it?
 3. What's another reasonable way you could have fixed it?
 4. Why did you prefer your approach? What tradeoffs did you weigh?
-5. If you had another 15 minutes, what would you improve?
-6. *(Optional)* What feature or improvement did you add or would you propose, and why?
-7. What does this submission say about how you like to build things?
+5. If you used an AI assistant, what did it suggest first, what did you change about that, and why?
+6. If you had another 15 minutes, what would you improve?
+7. *(Optional)* What feature or improvement did you add or would you propose, and why?
+8. What does this submission say about how you like to build things?
 
 ---
 
