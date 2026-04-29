@@ -1,4 +1,4 @@
-# Astro Party Crew Finder — Coding Challenge
+# Astronaut Party Crew Finder — Coding Challenge
 
 Hey, and thanks for taking the time to do this. We loved your video and want to get a little more of a feel for how you think and how you work.
 
